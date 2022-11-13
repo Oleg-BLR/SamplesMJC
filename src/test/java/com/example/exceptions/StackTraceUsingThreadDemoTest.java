@@ -15,15 +15,15 @@ public class StackTraceUsingThreadDemoTest {
         assertEquals("getStackTrace", elementZero.getMethodName());
 
         StackTraceElement elementOne = stackTrace[1];
-        assertEquals("com.baeldung.tutorials.StackTraceUsingThreadDemo", elementOne.getClassName());
+        assertEquals("com.example.exceptions.StackTraceUsingThreadDemo", elementOne.getClassName());
         assertEquals("methodB", elementOne.getMethodName());
 
         StackTraceElement elementTwo = stackTrace[2];
-        assertEquals("com.baeldung.tutorials.StackTraceUsingThreadDemo", elementTwo.getClassName());
+        assertEquals("com.example.exceptions.StackTraceUsingThreadDemo", elementTwo.getClassName());
         assertEquals("methodA", elementTwo.getMethodName());
 
         StackTraceElement elementThree = stackTrace[3];
-        assertEquals("test.java.com.baeldung.tutorials.CurrentStacktraceDemoUnitTest", elementThree.getClassName());
+        assertEquals("com.example.exceptions.StackTraceUsingThreadDemoTest", elementThree.getClassName());
         assertEquals("whenElementIsFetchedUsingThread_thenCorrectMethodAndClassIsReturned", elementThree.getMethodName());
     }
 }

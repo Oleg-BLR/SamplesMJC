@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38f05241-60d3-4517-b0f9-a0551928bfdb" name="Changes" comment="" />
+    <list default="true" id="38f05241-60d3-4517-b0f9-a0551928bfdb" name="Changes" comment="Commit01">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SamplesMJC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SamplesMJC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/DumpStackTraceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/DumpStackTraceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/GFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/GFG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/GFG02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/GFG02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/SolutionRushException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/SolutionRushException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/StackTraceUsingThrowableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/StackTraceUsingThrowableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/ThrowExcep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/ThrowExcep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterRemoveNulls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterRemoveNulls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/exceptions/StackTraceUsingThreadDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/exceptions/StackTraceUsingThreadDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/exceptions/StackTraceUsingThrowableDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/exceptions/StackTraceUsingThrowableDemoTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2H22yiF7ipjfsyiiTSMkxKqwXN5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,8 +48,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -31,6 +65,97 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StreamFilterRemoveNulls">
+    <configuration name="SolutionRushException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.exceptions.SolutionRushException" />
+      <module name="SamplesMJC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamFilterEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.streams.StreamFilterEx" />
+      <module name="SamplesMJC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamFilterRemoveNulls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.streams.StreamFilterRemoveNulls" />
+      <module name="SamplesMJC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTraceUsingThreadDemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SamplesMJC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.exceptions" />
+      <option name="MAIN_CLASS_NAME" value="com.example.exceptions.StackTraceUsingThreadDemoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTraceUsingThrowableDemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SamplesMJC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.exceptions" />
+      <option name="MAIN_CLASS_NAME" value="com.example.exceptions.StackTraceUsingThrowableDemoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamFilterRemoveNulls" />
+        <item itemvalue="Application.StreamFilterEx" />
+        <item itemvalue="TestNG.StackTraceUsingThreadDemoTest" />
+        <item itemvalue="TestNG.StackTraceUsingThrowableDemoTest" />
+        <item itemvalue="Application.SolutionRushException" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,5 +166,20 @@
       <updated>1667469116161</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit01" />
   </component>
 </project>

@@ -1,0 +1,41 @@
+package com.example.exceptions;
+
+// Java program to demonstrate
+// control flow of try-catch clause
+// when exception occur in try block
+// and handled in catch block
+class GFG
+{
+    public static void main (String[] args)
+    {
+
+        // array of size 4.
+        int[] arr = new int[4];
+        try
+        {
+            int i = arr[4];
+
+            // this statement will never execute
+            // as exception is raised by above statement
+            System.out.println("Inside try block");
+        }
+        catch(ArrayIndexOutOfBoundsException e)
+        {
+            System.out.println("Exception caught in Catch block");
+//            System.out.println(ex);
+            System.out.println(e);
+        }
+
+        finally
+        {
+            System.out.println("finally block executed");
+        }
+
+        // rest program will be executed
+        System.out.println("Outside try-catch-finally clause");
+    }
+
+//        // rest program will be executed
+//        System.out.println("Outside try-catch clause");
+//    }
+}

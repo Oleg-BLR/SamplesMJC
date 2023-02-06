@@ -1,4 +1,4 @@
-package main.java.com.example.exceptions;
+package com.example.exceptions;
 
 public class DumpStackTraceDemo {
     public static void main(String[] args) {

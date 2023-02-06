@@ -1,4 +1,4 @@
-package main.java.com.example;
+package com.example.widgets;
 
 public class Parent {
 

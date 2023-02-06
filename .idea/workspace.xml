@@ -1,23 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38f05241-60d3-4517-b0f9-a0551928bfdb" name="Changes" comment="Commit01">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="38f05241-60d3-4517-b0f9-a0551928bfdb" name="Changes" comment="Commit02">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/Predicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/PredicateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/mytryfunvinterface/CustomFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/mytryfunvinterface/FunctionInterfaceLambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/mytryfunvinterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/mytryfunvinterface/MyFunctionalInterfaceDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/mytryfunvinterface/MyFunctionalInterfaceSout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/newInterface/MyFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/newInterface/MyOperationInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/newInterface/MyRealisationOfMyOperationInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/generics/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/LambdaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/jakob/LambdaExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/jakob/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/jakob/MyFuncTwoStringParamReturnString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/jakob/MyFuncWithTwoIntParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/jakob/MyFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/jakob/MyFunctionWithOneParamrter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/map/ConcurrentHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/map/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/map/LinkedHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/map/TreeMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/map/WeakHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/methodReferences/MethodReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/queue/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/BaeldungJavaFileClass01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/CopyBites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/CopyCharacrers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/CopyFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/CopyFileStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/FileReaderNIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/InputOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/ParseProfileDataFromStringToMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/ReadAndWriteFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/ReadConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamToCollect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/data/copybites/xanadu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/data/copycharacters/inputFileReader.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/data/copyfilereader/Profile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/data/copyfilereader/inputfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/data/copyfilestream/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/data/filereadernio/Profile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streamsAndcollectors/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/ComparatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/GFG02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/MethodParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/MethodSignature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/StringSplitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/WorkWithString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tms/ProgrammersEnding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/widgets/Widget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lambdas/OperationableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lambdas/jakob/MyFunctionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SamplesMJC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SamplesMJC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/widgets/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/DumpStackTraceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/DumpStackTraceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/GFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/GFG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/GFG02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/GFG02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/SolutionRushException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/SolutionRushException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/StackTraceUsingThrowableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/StackTraceUsingThrowableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/ThrowExcep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/ThrowExcep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterRemoveNulls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterRemoveNulls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/exceptions/StackTraceUsingThreadDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/exceptions/StackTraceUsingThreadDemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/exceptions/StackTraceUsingThrowableDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/exceptions/StackTraceUsingThrowableDemoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +72,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="TestNG Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,39 +92,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;TestNG&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/olegdeviatovski/IdeaProjects/SamplesMJC/src/main/java/com/example/streams/data/filereadernio&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/streams/data/filereadernio" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/streams/data/copyfilereader" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/streams" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/streams/data/copyfile" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/streams/data/copycharacters" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/streams/data/copybites" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/streams/data" />
       <recent name="$PROJECT_DIR$/src/test" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.lambdas" />
+      <recent name="com.example.lambdas.jakob" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.string" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamFilterRemoveNulls">
-    <configuration name="SolutionRushException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.exceptions.SolutionRushException" />
+  <component name="RunManager" selected="Application.Hello">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.streamsAndcollectors.Hello" />
       <module name="SamplesMJC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.exceptions.*" />
+          <option name="PATTERN" value="com.example.streamsAndcollectors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamFilterEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.streams.StreamFilterEx" />
+    <configuration name="LambdaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lambdas.LambdaApp" />
       <module name="SamplesMJC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.streams.*" />
+          <option name="PATTERN" value="com.example.lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamFilterRemoveNulls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.streams.StreamFilterRemoveNulls" />
+    <configuration name="LambdaExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lambdas.jakob.LambdaExamples" />
       <module name="SamplesMJC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.streams.*" />
+          <option name="PATTERN" value="com.example.lambdas.jakob.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,47 +178,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTraceUsingThreadDemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MethodReferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.methodReferences.MethodReferences" />
       <module name="SamplesMJC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.exceptions.*" />
+          <option name="PATTERN" value="com.example.methodReferences.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.exceptions" />
-      <option name="MAIN_CLASS_NAME" value="com.example.exceptions.StackTraceUsingThreadDemoTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTraceUsingThrowableDemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MyRealisationOfMyOperationInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.functionalInterfaces.newInterface.MyRealisationOfMyOperationInterface" />
       <module name="SamplesMJC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.exceptions.*" />
+          <option name="PATTERN" value="com.example.functionalInterfaces.newInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.exceptions" />
-      <option name="MAIN_CLASS_NAME" value="com.example.exceptions.StackTraceUsingThrowableDemoTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamFilterRemoveNulls" />
-        <item itemvalue="Application.StreamFilterEx" />
-        <item itemvalue="TestNG.StackTraceUsingThreadDemoTest" />
-        <item itemvalue="TestNG.StackTraceUsingThrowableDemoTest" />
-        <item itemvalue="Application.SolutionRushException" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.MethodReferences" />
+        <item itemvalue="Application.LambdaExamples" />
+        <item itemvalue="Application.MyRealisationOfMyOperationInterface" />
+        <item itemvalue="Application.LambdaApp" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +223,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667469116161</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit01">
+      <created>1668335652078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668335652078</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +246,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit01" />
+    <MESSAGE value="Commit02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit02" />
   </component>
 </project>

@@ -1,67 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38f05241-60d3-4517-b0f9-a0551928bfdb" name="Changes" comment="Commit02">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/PredicateMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/mytryfunvinterface/CustomFunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/mytryfunvinterface/FunctionInterfaceLambdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/mytryfunvinterface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/mytryfunvinterface/MyFunctionalInterfaceDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/mytryfunvinterface/MyFunctionalInterfaceSout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/newInterface/MyFunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/newInterface/MyOperationInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/newInterface/MyRealisationOfMyOperationInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/generics/Generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/LambdaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/jakob/LambdaExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/jakob/MyComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/jakob/MyFuncTwoStringParamReturnString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/jakob/MyFuncWithTwoIntParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/jakob/MyFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lambdas/jakob/MyFunctionWithOneParamrter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/map/ConcurrentHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/map/HashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/map/LinkedHashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/map/TreeMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/map/WeakHashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/methodReferences/MethodReferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/queue/QueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/BaeldungJavaFileClass01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/CopyBites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/CopyCharacrers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/CopyFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/CopyFileStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/FileReaderNIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/InputOutputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/ParseProfileDataFromStringToMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/ReadAndWriteFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/ReadConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamToCollect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/data/copybites/xanadu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/data/copycharacters/inputFileReader.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/data/copyfilereader/Profile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/data/copyfilereader/inputfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/data/copyfilestream/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/data/filereadernio/Profile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/streamsAndcollectors/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/ComparatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/GFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/GFG02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/MethodParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/MethodSignature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/StringSplitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/string/WorkWithString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tms/ProgrammersEnding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/widgets/Widget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lambdas/OperationableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lambdas/jakob/MyFunctionTest.java" afterDir="false" />
+    <list default="true" id="38f05241-60d3-4517-b0f9-a0551928bfdb" name="Changes" comment="Commit03">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/predicate/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/widgets/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/DumpStackTraceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/DumpStackTraceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,26 +80,13 @@
       <recent name="com.example.string" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hello">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.streamsAndcollectors.Hello" />
       <module name="SamplesMJC" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.streamsAndcollectors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lambdas.LambdaApp" />
-      <module name="SamplesMJC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,13 +133,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.functionalInterfaces.predicate.Test" />
+      <module name="SamplesMJC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.functionalInterfaces.predicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.MethodReferences" />
         <item itemvalue="Application.LambdaExamples" />
         <item itemvalue="Application.MyRealisationOfMyOperationInterface" />
-        <item itemvalue="Application.LambdaApp" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668335652078</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit03">
+      <created>1675695961086</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675695961086</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,6 +196,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit01" />
     <MESSAGE value="Commit02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit02" />
+    <MESSAGE value="Commit03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit03" />
   </component>
 </project>

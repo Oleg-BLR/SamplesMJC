@@ -1,0 +1,5 @@
+Мои вопросы:
+
+amigoscode
+OptionalWithPresent - hashCode
+

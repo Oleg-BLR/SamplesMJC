@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38f05241-60d3-4517-b0f9-a0551928bfdb" name="Changes" comment="Commit03">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/functionalInterfaces/predicate/Test.java" afterDir="false" />
+    <list default="true" id="38f05241-60d3-4517-b0f9-a0551928bfdb" name="Changes" comment="Commit04">
+      <change afterPath="$PROJECT_DIR$/Questions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/optional/MainOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/optional/OptionalMJC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/optional/amigoscode/AmigosOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/optional/amigoscode/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/optional/amigoscode/Optional05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/optional/amigoscode/OptionalIfPresent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/optional/john/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/optional/john/OptionalTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/optional/john/OptionalTutorialWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threads/ExtendExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threads/MainForThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threads/MultithreadingDemoExtendsThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threads/MultithreadingDemoImplementsRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threads/habr/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threads/habr/SomeThing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,30 +49,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;TestNG&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/olegdeviatovski/IdeaProjects/SamplesMJC/src/main/java/com/example/streams/data/filereadernio&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
+    "last_opened_file_path": "/Users/olegdeviatovski/IdeaProjects/SamplesMJC",
+    "settings.editor.selected.configurable": "vcs.Git"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java/com/example/streams/data/filereadernio" />
       <recent name="$PROJECT_DIR$/src/main/java/com/example/streams/data/copyfilereader" />
       <recent name="$PROJECT_DIR$/src/main/java/com/example/streams" />
@@ -80,13 +96,13 @@
       <recent name="com.example.string" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.streamsAndcollectors.Hello" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="ExtendExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.threads.ExtendExample" />
       <module name="SamplesMJC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.streamsAndcollectors.*" />
+          <option name="PATTERN" value="com.example.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lambdas.jakob.LambdaExamples" />
+    <configuration name="MainForThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.threads.MainForThreads" />
       <module name="SamplesMJC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.lambdas.jakob.*" />
+          <option name="PATTERN" value="com.example.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.methodReferences.MethodReferences" />
+    <configuration name="OptionalIfPresent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.optional.amigoscode.OptionalIfPresent" />
       <module name="SamplesMJC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.methodReferences.*" />
+          <option name="PATTERN" value="com.example.optional.amigoscode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyRealisationOfMyOperationInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.functionalInterfaces.newInterface.MyRealisationOfMyOperationInterface" />
+    <configuration name="OptionalMJC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.optional.OptionalMJC" />
       <module name="SamplesMJC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.functionalInterfaces.newInterface.*" />
+          <option name="PATTERN" value="com.example.optional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.functionalInterfaces.predicate.Test" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.threads.habr.Program" />
       <module name="SamplesMJC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.functionalInterfaces.predicate.*" />
+          <option name="PATTERN" value="com.example.threads.habr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.MethodReferences" />
-        <item itemvalue="Application.LambdaExamples" />
-        <item itemvalue="Application.MyRealisationOfMyOperationInterface" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.MainForThreads" />
+        <item itemvalue="Application.ExtendExample" />
+        <item itemvalue="Application.OptionalMJC" />
+        <item itemvalue="Application.OptionalIfPresent" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675695961086</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit04">
+      <created>1675935323706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675935323706</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +220,7 @@
     <MESSAGE value="Commit01" />
     <MESSAGE value="Commit02" />
     <MESSAGE value="Commit03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit03" />
+    <MESSAGE value="Commit04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit04" />
   </component>
 </project>

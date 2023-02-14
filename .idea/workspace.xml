@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38f05241-60d3-4517-b0f9-a0551928bfdb" name="Changes" comment="Commit01">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/generics/Generics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SamplesMJC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SamplesMJC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/DumpStackTraceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/DumpStackTraceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/GFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/GFG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/GFG02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/GFG02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/SolutionRushException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/SolutionRushException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/StackTraceUsingThrowableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/StackTraceUsingThrowableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exceptions/ThrowExcep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptions/ThrowExcep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterRemoveNulls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/streams/StreamFilterRemoveNulls.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/example/exceptions/StackTraceUsingThreadDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/exceptions/StackTraceUsingThreadDemoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/example/exceptions/StackTraceUsingThrowableDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/exceptions/StackTraceUsingThrowableDemoTest.java" afterDir="false" />
     </list>
@@ -46,25 +34,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
-  },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
-    ]
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test" />
@@ -72,13 +45,13 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamFilterRemoveNulls">
-    <configuration name="SolutionRushException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.exceptions.SolutionRushException" />
+  <component name="RunManager" selected="Application.Generics">
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.generics.Generics" />
       <module name="SamplesMJC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.exceptions.*" />
+          <option name="PATTERN" value="com.example.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Generics" />
         <item itemvalue="Application.StreamFilterRemoveNulls" />
         <item itemvalue="Application.StreamFilterEx" />
         <item itemvalue="TestNG.StackTraceUsingThreadDemoTest" />
         <item itemvalue="TestNG.StackTraceUsingThrowableDemoTest" />
-        <item itemvalue="Application.SolutionRushException" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +150,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit01" />
